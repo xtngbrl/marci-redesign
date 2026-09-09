@@ -1,0 +1,8 @@
+node_modules
+.git
+.qodo
+.tanstack
+.wrangler
+.output
+dist
+.vinxi
